@@ -1,0 +1,9 @@
+NAVBAR
+
+      <a href="#exercises" style={{ textDecoration: 'none', color: '#808080' }}>Exercises</a>
+
+      Bckground
+
+      font-family: 'Josefin Sans'; 
+    background-size: auto; 
+    background: linear-gradient(110deg, rgba(234, 170, 32, 0.736) 50%, #cdb84f95 50%);
